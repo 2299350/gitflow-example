@@ -12,3 +12,8 @@
 
 10. git checkout develop
 11. git checkout -b features/about-page
+12. git add .
+13. git commit -m "add HTML for the About Page"
+14. git push origin features/about-page
+
+15. git checkout develop
